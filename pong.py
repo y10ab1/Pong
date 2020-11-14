@@ -108,7 +108,7 @@ while True:
     # Love ya!
     if Score_b > 5:
         
-        GG.write("Love ya! Ting<3", align="center", font=("Courier", 30, "normal"))
+        GG.write("Hell ya", align="center", font=("Courier", 30, "normal"))
     if Score_a > 5:
         
         GG.write("Ridiculous! ", align="center", font=("Courier", 30, "normal"))
